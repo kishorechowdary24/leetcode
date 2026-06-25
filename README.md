@@ -11,6 +11,7 @@
 | [0118-pascals-triangle](https://github.com/kishorechowdary24/leetcode/tree/master/0118-pascals-triangle) |
 | [0229-majority-element-ii](https://github.com/kishorechowdary24/leetcode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/kishorechowdary24/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kishorechowdary24/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 | [0073-set-matrix-zeroes](https://github.com/kishorechowdary24/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/kishorechowdary24/leetcode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/kishorechowdary24/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kishorechowdary24/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Matrix
 |  |
 | ------- |
@@ -36,6 +38,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/kishorechowdary24/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kishorechowdary24/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,4 +51,17 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/kishorechowdary24/leetcode/tree/master/0229-majority-element-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kishorechowdary24/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kishorechowdary24/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kishorechowdary24/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kishorechowdary24/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
