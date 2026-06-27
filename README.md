@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kishorechowdary24/leetcode/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/kishorechowdary24/leetcode/tree/master/0070-climbing-stairs) |
 ## Simulation
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kishorechowdary24/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/kishorechowdary24/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/kishorechowdary24/leetcode/tree/master/0118-pascals-triangle) |
 ## Sorting
 |  |
@@ -86,4 +88,8 @@
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/kishorechowdary24/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kishorechowdary24/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
