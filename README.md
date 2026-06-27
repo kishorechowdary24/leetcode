@@ -52,6 +52,7 @@
 | [0005-longest-palindromic-substring](https://github.com/kishorechowdary24/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/kishorechowdary24/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/kishorechowdary24/leetcode/tree/master/0118-pascals-triangle) |
+| [0516-longest-palindromic-subsequence](https://github.com/kishorechowdary24/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/kishorechowdary24/leetcode/tree/master/0518-coin-change-ii) |
 ## Sorting
 |  |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kishorechowdary24/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0516-longest-palindromic-subsequence](https://github.com/kishorechowdary24/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 ## Backtracking
 |  |
 | ------- |
