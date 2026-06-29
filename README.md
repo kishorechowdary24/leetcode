@@ -14,6 +14,7 @@
 | [0518-coin-change-ii](https://github.com/kishorechowdary24/leetcode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/kishorechowdary24/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kishorechowdary24/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kishorechowdary24/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/kishorechowdary24/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kishorechowdary24/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -86,6 +87,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kishorechowdary24/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0516-longest-palindromic-subsequence](https://github.com/kishorechowdary24/leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kishorechowdary24/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Backtracking
 |  |
 | ------- |
