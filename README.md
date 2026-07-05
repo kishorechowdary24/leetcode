@@ -94,6 +94,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kishorechowdary24/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/kishorechowdary24/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/kishorechowdary24/leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/kishorechowdary24/leetcode/tree/master/0242-valid-anagram) |
 | [0516-longest-palindromic-subsequence](https://github.com/kishorechowdary24/leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -139,4 +140,8 @@
 | [1148-article-views-i](https://github.com/kishorechowdary24/leetcode/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/kishorechowdary24/leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/kishorechowdary24/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kishorechowdary24/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
