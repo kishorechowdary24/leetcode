@@ -17,6 +17,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/kishorechowdary24/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kishorechowdary24/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kishorechowdary24/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2965-find-missing-and-repeated-values](https://github.com/kishorechowdary24/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/kishorechowdary24/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kishorechowdary24/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -29,6 +30,7 @@
 | [0229-majority-element-ii](https://github.com/kishorechowdary24/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kishorechowdary24/leetcode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/kishorechowdary24/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [2965-find-missing-and-repeated-values](https://github.com/kishorechowdary24/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/kishorechowdary24/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kishorechowdary24/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Matrix
@@ -38,6 +40,7 @@
 | [0048-rotate-image](https://github.com/kishorechowdary24/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kishorechowdary24/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/kishorechowdary24/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [2965-find-missing-and-repeated-values](https://github.com/kishorechowdary24/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
@@ -45,6 +48,7 @@
 | [0070-climbing-stairs](https://github.com/kishorechowdary24/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/kishorechowdary24/leetcode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/kishorechowdary24/leetcode/tree/master/0263-ugly-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/kishorechowdary24/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3869-count-fancy-numbers-in-a-range](https://github.com/kishorechowdary24/leetcode/tree/master/3869-count-fancy-numbers-in-a-range) |
 ## Simulation
 |  |
