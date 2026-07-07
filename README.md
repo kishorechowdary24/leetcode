@@ -9,6 +9,7 @@
 | [0048-rotate-image](https://github.com/kishorechowdary24/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kishorechowdary24/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/kishorechowdary24/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/kishorechowdary24/leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/kishorechowdary24/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/kishorechowdary24/leetcode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/kishorechowdary24/leetcode/tree/master/0169-majority-element) |
@@ -41,6 +42,7 @@
 | [0048-rotate-image](https://github.com/kishorechowdary24/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kishorechowdary24/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/kishorechowdary24/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/kishorechowdary24/leetcode/tree/master/0079-word-search) |
 | [2965-find-missing-and-repeated-values](https://github.com/kishorechowdary24/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -108,6 +110,7 @@
 | [0005-longest-palindromic-substring](https://github.com/kishorechowdary24/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/kishorechowdary24/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/kishorechowdary24/leetcode/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/kishorechowdary24/leetcode/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/kishorechowdary24/leetcode/tree/master/0242-valid-anagram) |
 | [0516-longest-palindromic-subsequence](https://github.com/kishorechowdary24/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kishorechowdary24/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -117,6 +120,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/kishorechowdary24/leetcode/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/kishorechowdary24/leetcode/tree/master/0079-word-search) |
 ## Enumeration
 |  |
 | ------- |
@@ -132,6 +136,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kishorechowdary24/leetcode/tree/master/0079-word-search) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kishorechowdary24/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
