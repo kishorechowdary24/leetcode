@@ -104,6 +104,7 @@
 | [0005-longest-palindromic-substring](https://github.com/kishorechowdary24/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/kishorechowdary24/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/kishorechowdary24/leetcode/tree/master/0189-rotate-array) |
+| [1768-merge-strings-alternately](https://github.com/kishorechowdary24/leetcode/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 | [0242-valid-anagram](https://github.com/kishorechowdary24/leetcode/tree/master/0242-valid-anagram) |
 | [0516-longest-palindromic-subsequence](https://github.com/kishorechowdary24/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kishorechowdary24/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1768-merge-strings-alternately](https://github.com/kishorechowdary24/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kishorechowdary24/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3798-largest-even-number](https://github.com/kishorechowdary24/leetcode/tree/master/3798-largest-even-number) |
 ## Backtracking
