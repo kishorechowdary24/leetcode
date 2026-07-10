@@ -1,6 +1,7 @@
 class Solution:
     def isPalindrome(self, head: Optional[ListNode]) -> bool:
 
+        # Step 1: Find the middle of the linked list
         slow = head
         fast = head
 
@@ -8,6 +9,7 @@ class Solution:
             slow = slow.next
             fast = fast.next.next
 
+        # Step 2: Reverse the second half
         prev = None
 
         while slow:
@@ -16,8 +18,8 @@ class Solution:
             prev = slow
             slow = temp
 
+        # Step 3: Compare both halves
         while prev:
-
             if head.val != prev.val:
                 return False
 
