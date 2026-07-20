@@ -18,6 +18,7 @@
 | [0518-coin-change-ii](https://github.com/kishorechowdary24/leetcode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/kishorechowdary24/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/kishorechowdary24/leetcode/tree/master/0605-can-place-flowers) |
+| [1260-shift-2d-grid](https://github.com/kishorechowdary24/leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/kishorechowdary24/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kishorechowdary24/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kishorechowdary24/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -51,6 +52,7 @@
 | [0054-spiral-matrix](https://github.com/kishorechowdary24/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/kishorechowdary24/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/kishorechowdary24/leetcode/tree/master/0079-word-search) |
+| [1260-shift-2d-grid](https://github.com/kishorechowdary24/leetcode/tree/master/1260-shift-2d-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/kishorechowdary24/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -72,6 +74,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/kishorechowdary24/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/kishorechowdary24/leetcode/tree/master/0067-add-binary) |
+| [1260-shift-2d-grid](https://github.com/kishorechowdary24/leetcode/tree/master/1260-shift-2d-grid) |
 ## Prefix Sum
 |  |
 | ------- |
