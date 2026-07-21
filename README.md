@@ -64,6 +64,7 @@
 | [0070-climbing-stairs](https://github.com/kishorechowdary24/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/kishorechowdary24/leetcode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/kishorechowdary24/leetcode/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/kishorechowdary24/leetcode/tree/master/0326-power-of-three) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/kishorechowdary24/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kishorechowdary24/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/kishorechowdary24/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -254,6 +255,7 @@
 | [0203-remove-linked-list-elements](https://github.com/kishorechowdary24/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/kishorechowdary24/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kishorechowdary24/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/kishorechowdary24/leetcode/tree/master/0326-power-of-three) |
 ## Number Theory
 |  |
 | ------- |
