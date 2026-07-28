@@ -15,6 +15,7 @@
 | [0169-majority-element](https://github.com/kishorechowdary24/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kishorechowdary24/leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/kishorechowdary24/leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/kishorechowdary24/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0518-coin-change-ii](https://github.com/kishorechowdary24/leetcode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/kishorechowdary24/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/kishorechowdary24/leetcode/tree/master/0605-can-place-flowers) |
@@ -41,6 +42,7 @@
 | [0169-majority-element](https://github.com/kishorechowdary24/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kishorechowdary24/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kishorechowdary24/leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/kishorechowdary24/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/kishorechowdary24/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/kishorechowdary24/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/kishorechowdary24/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -105,6 +107,7 @@
 | [0169-majority-element](https://github.com/kishorechowdary24/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kishorechowdary24/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kishorechowdary24/leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/kishorechowdary24/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kishorechowdary24/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/kishorechowdary24/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kishorechowdary24/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -116,11 +119,13 @@
 | ------- |
 | [0169-majority-element](https://github.com/kishorechowdary24/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kishorechowdary24/leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/kishorechowdary24/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kishorechowdary24/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kishorechowdary24/leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/kishorechowdary24/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kishorechowdary24/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -295,9 +300,18 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/kishorechowdary24/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kishorechowdary24/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kishorechowdary24/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kishorechowdary24/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kishorechowdary24/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
