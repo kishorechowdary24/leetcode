@@ -17,6 +17,7 @@
 | [0189-rotate-array](https://github.com/kishorechowdary24/leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/kishorechowdary24/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kishorechowdary24/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0486-predict-the-winner](https://github.com/kishorechowdary24/leetcode/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/kishorechowdary24/leetcode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/kishorechowdary24/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/kishorechowdary24/leetcode/tree/master/0605-can-place-flowers) |
@@ -73,6 +74,7 @@
 | [0189-rotate-array](https://github.com/kishorechowdary24/leetcode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/kishorechowdary24/leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/kishorechowdary24/leetcode/tree/master/0326-power-of-three) |
+| [0486-predict-the-winner](https://github.com/kishorechowdary24/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/kishorechowdary24/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kishorechowdary24/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/kishorechowdary24/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -98,6 +100,7 @@
 | [0005-longest-palindromic-substring](https://github.com/kishorechowdary24/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/kishorechowdary24/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/kishorechowdary24/leetcode/tree/master/0118-pascals-triangle) |
+| [0486-predict-the-winner](https://github.com/kishorechowdary24/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/kishorechowdary24/leetcode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/kishorechowdary24/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/kishorechowdary24/leetcode/tree/master/0518-coin-change-ii) |
@@ -282,6 +285,7 @@
 | [0206-reverse-linked-list](https://github.com/kishorechowdary24/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kishorechowdary24/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/kishorechowdary24/leetcode/tree/master/0326-power-of-three) |
+| [0486-predict-the-winner](https://github.com/kishorechowdary24/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/kishorechowdary24/leetcode/tree/master/0509-fibonacci-number) |
 ## Number Theory
 |  |
@@ -317,4 +321,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kishorechowdary24/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/kishorechowdary24/leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
