@@ -22,6 +22,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/kishorechowdary24/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/kishorechowdary24/leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kishorechowdary24/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/kishorechowdary24/leetcode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/kishorechowdary24/leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/kishorechowdary24/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kishorechowdary24/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -77,6 +78,7 @@
 | [0486-predict-the-winner](https://github.com/kishorechowdary24/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/kishorechowdary24/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kishorechowdary24/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/kishorechowdary24/leetcode/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/kishorechowdary24/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kishorechowdary24/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/kishorechowdary24/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -104,6 +106,7 @@
 | [0509-fibonacci-number](https://github.com/kishorechowdary24/leetcode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/kishorechowdary24/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/kishorechowdary24/leetcode/tree/master/0518-coin-change-ii) |
+| [0877-stone-game](https://github.com/kishorechowdary24/leetcode/tree/master/0877-stone-game) |
 | [3869-count-fancy-numbers-in-a-range](https://github.com/kishorechowdary24/leetcode/tree/master/3869-count-fancy-numbers-in-a-range) |
 ## Sorting
 |  |
@@ -325,4 +328,5 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/kishorechowdary24/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/kishorechowdary24/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
