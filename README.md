@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kishorechowdary24/leetcode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kishorechowdary24/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/kishorechowdary24/leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/kishorechowdary24/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kishorechowdary24/leetcode/tree/master/0054-spiral-matrix) |
@@ -154,6 +155,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kishorechowdary24/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kishorechowdary24/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/kishorechowdary24/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kishorechowdary24/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kishorechowdary24/leetcode/tree/master/0141-linked-list-cycle) |
