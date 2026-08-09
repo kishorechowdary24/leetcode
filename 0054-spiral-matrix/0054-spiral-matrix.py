@@ -1,12 +1,10 @@
 class Solution:
     def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
         res = []
-
         top = 0
         bottom = len(matrix) - 1
         left = 0
         right = len(matrix[0]) - 1
-
         while left <= right and top <= bottom:
 
             # Left -> Right
