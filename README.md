@@ -56,6 +56,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/kishorechowdary24/leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/kishorechowdary24/leetcode/tree/master/0012-integer-to-roman) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/kishorechowdary24/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/kishorechowdary24/leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/kishorechowdary24/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/kishorechowdary24/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -200,6 +201,7 @@
 | [0005-longest-palindromic-substring](https://github.com/kishorechowdary24/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/kishorechowdary24/leetcode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/kishorechowdary24/leetcode/tree/master/0020-valid-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/kishorechowdary24/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/kishorechowdary24/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/kishorechowdary24/leetcode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/kishorechowdary24/leetcode/tree/master/0079-word-search) |
@@ -387,6 +389,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/kishorechowdary24/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/kishorechowdary24/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/kishorechowdary24/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/kishorechowdary24/leetcode/tree/master/0904-fruit-into-baskets) |
