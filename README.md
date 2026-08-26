@@ -338,6 +338,7 @@
 | [0206-reverse-linked-list](https://github.com/kishorechowdary24/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kishorechowdary24/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/kishorechowdary24/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0707-design-linked-list](https://github.com/kishorechowdary24/leetcode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kishorechowdary24/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -441,4 +442,8 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/kishorechowdary24/leetcode/tree/master/0523-continuous-subarray-sum) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/kishorechowdary24/leetcode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
