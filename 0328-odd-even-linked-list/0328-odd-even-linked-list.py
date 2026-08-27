@@ -18,7 +18,7 @@ class Solution:
             odd = odd.next
 
             even.next = odd.next
-            even = odd.next
+            even = even.next
 
         odd.next = evenHead
 
