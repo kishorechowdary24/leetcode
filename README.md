@@ -262,11 +262,13 @@
 | ------- |
 | [0079-word-search](https://github.com/kishorechowdary24/leetcode/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/kishorechowdary24/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/kishorechowdary24/leetcode/tree/master/0101-symmetric-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kishorechowdary24/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/kishorechowdary24/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/kishorechowdary24/leetcode/tree/master/0101-symmetric-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kishorechowdary24/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
 |  |
@@ -376,10 +378,12 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/kishorechowdary24/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/kishorechowdary24/leetcode/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/kishorechowdary24/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/kishorechowdary24/leetcode/tree/master/0101-symmetric-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
