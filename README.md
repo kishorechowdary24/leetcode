@@ -211,6 +211,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/kishorechowdary24/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/kishorechowdary24/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/kishorechowdary24/leetcode/tree/master/1768-merge-strings-alternately) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kishorechowdary24/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -332,6 +333,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/kishorechowdary24/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/kishorechowdary24/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kishorechowdary24/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kishorechowdary24/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Linked List
 |  |
 | ------- |
@@ -349,6 +351,7 @@
 | [0328-odd-even-linked-list](https://github.com/kishorechowdary24/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/kishorechowdary24/leetcode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kishorechowdary24/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kishorechowdary24/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
