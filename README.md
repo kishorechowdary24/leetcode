@@ -183,6 +183,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kishorechowdary24/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/kishorechowdary24/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/kishorechowdary24/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/kishorechowdary24/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -194,6 +195,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kishorechowdary24/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/kishorechowdary24/leetcode/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kishorechowdary24/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
@@ -353,6 +355,7 @@
 | [0002-add-two-numbers](https://github.com/kishorechowdary24/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kishorechowdary24/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/kishorechowdary24/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/kishorechowdary24/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/kishorechowdary24/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/kishorechowdary24/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/kishorechowdary24/leetcode/tree/master/0061-rotate-list) |
@@ -415,6 +418,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kishorechowdary24/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/kishorechowdary24/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kishorechowdary24/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
@@ -490,4 +494,8 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kishorechowdary24/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kishorechowdary24/leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kishorechowdary24/leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
