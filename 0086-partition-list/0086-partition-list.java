@@ -37,7 +37,8 @@ class Solution {
         int index = 0;
 
         while (curr != null){
-            curr.val = list.get(index++);
+            curr.val = list.get(index);
+            index++;
             curr = curr.next;
         }
         return head;
