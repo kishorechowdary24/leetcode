@@ -1,31 +1,37 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
 class Solution {
     public int[] nodesBetweenCriticalPoints(ListNode head) {
-        List<Integer> criticalPoints = new ArrayList<>();
-
-        int position = 1;
 
         ListNode prev = head;
         ListNode curr = head.next;
 
-        while (curr != null && curr.next != null){
+        int position = 1;
+
+        int firstCritical = -1;
+        int prevCritical = -1;
+
+        int minDistance = Integer.MAX_VALUE;
+
+        while (curr != null && curr.next != null) {
+
             ListNode next = curr.next;
 
-            if (curr.val > prev.val && curr.val > next.val){
-                criticalPoints.add(position);
-            }
+            // Check if current node is a critical point
+            if ((curr.val > prev.val && curr.val > next.val) ||
+                (curr.val < prev.val && curr.val < next.val)) {
 
-            else if(curr.val < prev.val && curr.val < next.val){
-                criticalPoints.add(position);
+                // First critical point
+                if (firstCritical == -1) {
+                    firstCritical = position;
+                }
+
+                // Calculate distance from previous critical point
+                if (prevCritical != -1) {
+                    int distance = position - prevCritical;
+                    minDistance = Math.min(minDistance, distance);
+                }
+
+                // Current critical point becomes previous critical point
+                prevCritical = position;
             }
 
             prev = curr;
@@ -33,21 +39,13 @@ class Solution {
             position++;
         }
 
-        if (criticalPoints.size() < 2){
+        // Fewer than 2 critical points
+        if (firstCritical == prevCritical) {
             return new int[]{-1, -1};
         }
 
-        int minDistance = Integer.MAX_VALUE;
-        int maxDistance = 0;
-
-        for (int i = 1; i< criticalPoints.size(); i++){
-            int distance = criticalPoints.get(i) - criticalPoints.get(i-1);
-
-            minDistance = Math.min(minDistance, distance);
-
-        }
-
-        maxDistance = criticalPoints.get(criticalPoints.size() -1) - criticalPoints.get(0);
+        // Distance between first and last critical points
+        int maxDistance = prevCritical - firstCritical;
 
         return new int[]{minDistance, maxDistance};
     }
