@@ -1,35 +1,47 @@
 class Solution {
     public void reorderList(ListNode head) {
 
-        if (head == null || head.next == null) {
+        if (head.next == null || head.next.next == null) {
             return;
         }
 
-        List<ListNode> list = new ArrayList<>();
+        ListNode slow = head;
+        ListNode fast = head;
 
-        ListNode curr = head;
+        while (fast.next != null && fast.next.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+
+        ListNode second = slow.next;
+        slow.next = null;
+
+        ListNode prev = null;
+        ListNode curr = second;
 
         while (curr != null) {
-            list.add(curr);
-            curr = curr.next;
+            ListNode next = curr.next;
+
+            curr.next = prev;
+            prev = curr;
+            curr = next;
         }
 
-        int left = 0;
-        int right = list.size() - 1;
 
-        while (left < right) {
+        ListNode left = head;
+        ListNode right = prev;
 
-            list.get(left).next = list.get(right);
-            left++;
+        // Merge the two halves
+        while (right != null) {
 
-            if (left == right) {
-                break;
-            }
+            ListNode next1 = left.next;
+            ListNode next2 = right.next;
 
-            list.get(right).next = list.get(left);
-            right--;
+            left.next = right;
+            right.next = next1;
+
+            left = next1;
+            right = next2;
         }
-
-        list.get(left).next = null;
     }
 }
