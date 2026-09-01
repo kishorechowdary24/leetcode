@@ -17,32 +17,23 @@ class Solution {
        int carry = 0;
 
        while (l1 != null || l2 != null || carry != 0){
-        int val1 , val2;
+        int sum = carry;
+
         if (l1 != null){
-             val1 = l1.val;
-        }
-        else{
-            val1 = 0;
+            sum += l1.val;
+            l1 = l1.next;
         }
 
         if (l2 != null){
-            val2 = l2.val;
+            sum += l2.val;
+            l2 = l2.next;
         }
-        else{
-            val2 = 0;
-        }
-
-        int sum = val1 + val2 + carry;
 
         carry = sum / 10;
-
         curr.next = new ListNode(sum % 10);
         curr = curr.next;
-
-        if(l1 != null) l1 = l1.next;
-        if (l2 != null) l2 = l2.next;
        }
-
        return dummy.next;
     }
+
 }
