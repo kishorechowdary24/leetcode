@@ -1,18 +1,18 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        
-        new_s = ""
-        for ch in s:
-            if ch.isalnum():
-                new_s += ch.lower()
 
+        left, right = 0, len(s) -1
 
-        def helper(i,j):
-            if i >= j:
-                return True
-            
-            if new_s[i] != new_s[j]:
-                return False
-            
-            return helper(i+1, j-1)
-        return helper(0, len(new_s)-1)
+        while left < right:
+            if not s[left].isalnum():
+                left += 1
+            elif not s[right].isalnum():
+                right -= 1
+
+            else:
+                if s[left].lower() != s[right].lower():
+                    return False
+                
+                left += 1
+                right -= 1
+        return True
