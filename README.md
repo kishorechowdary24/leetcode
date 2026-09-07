@@ -167,6 +167,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/kishorechowdary24/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/kishorechowdary24/leetcode/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/kishorechowdary24/leetcode/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/kishorechowdary24/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [3869-count-fancy-numbers-in-a-range](https://github.com/kishorechowdary24/leetcode/tree/master/3869-count-fancy-numbers-in-a-range) |
 ## Sorting
 |  |
@@ -256,6 +257,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/kishorechowdary24/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/kishorechowdary24/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/kishorechowdary24/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0940-distinct-subsequences-ii](https://github.com/kishorechowdary24/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kishorechowdary24/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/kishorechowdary24/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/kishorechowdary24/leetcode/tree/master/1768-merge-strings-alternately) |
