@@ -130,6 +130,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/kishorechowdary24/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kishorechowdary24/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3869-count-fancy-numbers-in-a-range](https://github.com/kishorechowdary24/leetcode/tree/master/3869-count-fancy-numbers-in-a-range) |
+| [3870-count-commas-in-range](https://github.com/kishorechowdary24/leetcode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kishorechowdary24/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/kishorechowdary24/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Simulation
