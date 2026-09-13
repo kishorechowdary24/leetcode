@@ -33,6 +33,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/kishorechowdary24/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/kishorechowdary24/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/kishorechowdary24/leetcode/tree/master/0724-find-pivot-index) |
+| [0835-image-overlap](https://github.com/kishorechowdary24/leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/kishorechowdary24/leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/kishorechowdary24/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kishorechowdary24/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -100,6 +101,7 @@
 | [0054-spiral-matrix](https://github.com/kishorechowdary24/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/kishorechowdary24/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/kishorechowdary24/leetcode/tree/master/0079-word-search) |
+| [0835-image-overlap](https://github.com/kishorechowdary24/leetcode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/kishorechowdary24/leetcode/tree/master/1260-shift-2d-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/kishorechowdary24/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kishorechowdary24/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
