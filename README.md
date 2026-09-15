@@ -176,6 +176,7 @@
 | [0647-palindromic-substrings](https://github.com/kishorechowdary24/leetcode/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/kishorechowdary24/leetcode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/kishorechowdary24/leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kishorechowdary24/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3869-count-fancy-numbers-in-a-range](https://github.com/kishorechowdary24/leetcode/tree/master/3869-count-fancy-numbers-in-a-range) |
 ## Sorting
 |  |
@@ -248,6 +249,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/kishorechowdary24/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/kishorechowdary24/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kishorechowdary24/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kishorechowdary24/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
 |  |
 | ------- |
@@ -272,6 +274,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/kishorechowdary24/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/kishorechowdary24/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kishorechowdary24/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kishorechowdary24/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kishorechowdary24/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kishorechowdary24/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3798-largest-even-number](https://github.com/kishorechowdary24/leetcode/tree/master/3798-largest-even-number) |
@@ -302,6 +305,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kishorechowdary24/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/kishorechowdary24/leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kishorechowdary24/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kishorechowdary24/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Depth-First Search
 |  |
 | ------- |
