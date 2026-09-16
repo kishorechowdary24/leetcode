@@ -127,6 +127,7 @@
 | [0836-rectangle-overlap](https://github.com/kishorechowdary24/leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/kishorechowdary24/leetcode/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/kishorechowdary24/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kishorechowdary24/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kishorechowdary24/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/kishorechowdary24/leetcode/tree/master/2029-stone-game-ix) |
 | [2965-find-missing-and-repeated-values](https://github.com/kishorechowdary24/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -157,6 +158,7 @@
 | [0724-find-pivot-index](https://github.com/kishorechowdary24/leetcode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kishorechowdary24/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/kishorechowdary24/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kishorechowdary24/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kishorechowdary24/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kishorechowdary24/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/kishorechowdary24/leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -176,6 +178,7 @@
 | [0647-palindromic-substrings](https://github.com/kishorechowdary24/leetcode/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/kishorechowdary24/leetcode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/kishorechowdary24/leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kishorechowdary24/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kishorechowdary24/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3869-count-fancy-numbers-in-a-range](https://github.com/kishorechowdary24/leetcode/tree/master/3869-count-fancy-numbers-in-a-range) |
 ## Sorting
@@ -522,6 +525,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kishorechowdary24/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kishorechowdary24/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Pigeonhole Principle
 |  |
