@@ -44,6 +44,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kishorechowdary24/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kishorechowdary24/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kishorechowdary24/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kishorechowdary24/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kishorechowdary24/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kishorechowdary24/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kishorechowdary24/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -90,6 +91,7 @@
 | [1386-cinema-seat-allocation](https://github.com/kishorechowdary24/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kishorechowdary24/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kishorechowdary24/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kishorechowdary24/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2965-find-missing-and-repeated-values](https://github.com/kishorechowdary24/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/kishorechowdary24/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kishorechowdary24/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -166,6 +168,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/kishorechowdary24/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/kishorechowdary24/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kishorechowdary24/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kishorechowdary24/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kishorechowdary24/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kishorechowdary24/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/kishorechowdary24/leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -504,6 +507,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/kishorechowdary24/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/kishorechowdary24/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kishorechowdary24/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kishorechowdary24/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kishorechowdary24/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kishorechowdary24/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Sliding Window
@@ -515,6 +519,7 @@
 | [0904-fruit-into-baskets](https://github.com/kishorechowdary24/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/kishorechowdary24/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kishorechowdary24/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kishorechowdary24/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kishorechowdary24/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kishorechowdary24/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Boyer–Moore Majority Vote Algorithm
