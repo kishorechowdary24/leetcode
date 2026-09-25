@@ -88,6 +88,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/kishorechowdary24/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/kishorechowdary24/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kishorechowdary24/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1096-brace-expansion-ii](https://github.com/kishorechowdary24/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/kishorechowdary24/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/kishorechowdary24/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kishorechowdary24/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -205,6 +206,7 @@
 | [0242-valid-anagram](https://github.com/kishorechowdary24/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/kishorechowdary24/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kishorechowdary24/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/kishorechowdary24/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/kishorechowdary24/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kishorechowdary24/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kishorechowdary24/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -290,6 +292,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/kishorechowdary24/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kishorechowdary24/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/kishorechowdary24/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1096-brace-expansion-ii](https://github.com/kishorechowdary24/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kishorechowdary24/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1768-merge-strings-alternately](https://github.com/kishorechowdary24/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kishorechowdary24/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -303,6 +306,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/kishorechowdary24/leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/kishorechowdary24/leetcode/tree/master/0079-word-search) |
+| [1096-brace-expansion-ii](https://github.com/kishorechowdary24/leetcode/tree/master/1096-brace-expansion-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -340,6 +344,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/kishorechowdary24/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kishorechowdary24/leetcode/tree/master/0101-symmetric-tree) |
+| [1096-brace-expansion-ii](https://github.com/kishorechowdary24/leetcode/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kishorechowdary24/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kishorechowdary24/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
@@ -406,6 +411,7 @@
 | [0234-palindrome-linked-list](https://github.com/kishorechowdary24/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/kishorechowdary24/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kishorechowdary24/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1096-brace-expansion-ii](https://github.com/kishorechowdary24/leetcode/tree/master/1096-brace-expansion-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kishorechowdary24/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Linked List
 |  |
