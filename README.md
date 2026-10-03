@@ -186,6 +186,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kishorechowdary24/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/kishorechowdary24/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/kishorechowdary24/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kishorechowdary24/leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/kishorechowdary24/leetcode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/kishorechowdary24/leetcode/tree/master/0115-distinct-subsequences) |
@@ -286,6 +287,7 @@
 | [0020-valid-parentheses](https://github.com/kishorechowdary24/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kishorechowdary24/leetcode/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kishorechowdary24/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/kishorechowdary24/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/kishorechowdary24/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/kishorechowdary24/leetcode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/kishorechowdary24/leetcode/tree/master/0079-word-search) |
@@ -421,6 +423,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kishorechowdary24/leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/kishorechowdary24/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kishorechowdary24/leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/kishorechowdary24/leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kishorechowdary24/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -603,6 +606,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/kishorechowdary24/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kishorechowdary24/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/kishorechowdary24/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kishorechowdary24/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kishorechowdary24/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kishorechowdary24/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
