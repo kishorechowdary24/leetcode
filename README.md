@@ -296,6 +296,7 @@
 | [0125-valid-palindrome](https://github.com/kishorechowdary24/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kishorechowdary24/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/kishorechowdary24/leetcode/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/kishorechowdary24/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/kishorechowdary24/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kishorechowdary24/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kishorechowdary24/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -327,6 +328,7 @@
 | [0022-generate-parentheses](https://github.com/kishorechowdary24/leetcode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/kishorechowdary24/leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/kishorechowdary24/leetcode/tree/master/0079-word-search) |
+| [0301-remove-invalid-parentheses](https://github.com/kishorechowdary24/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/kishorechowdary24/leetcode/tree/master/1096-brace-expansion-ii) |
 ## Enumeration
 |  |
@@ -368,6 +370,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/kishorechowdary24/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kishorechowdary24/leetcode/tree/master/0101-symmetric-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/kishorechowdary24/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/kishorechowdary24/leetcode/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kishorechowdary24/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kishorechowdary24/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
