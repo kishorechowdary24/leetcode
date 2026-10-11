@@ -32,6 +32,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/kishorechowdary24/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/kishorechowdary24/leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kishorechowdary24/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/kishorechowdary24/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/kishorechowdary24/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/kishorechowdary24/leetcode/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/kishorechowdary24/leetcode/tree/master/0835-image-overlap) |
@@ -557,6 +558,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kishorechowdary24/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/kishorechowdary24/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/kishorechowdary24/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/kishorechowdary24/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kishorechowdary24/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
