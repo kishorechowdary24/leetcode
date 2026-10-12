@@ -10,5 +10,4 @@ class Solution(object):
                 left = mid + 1
             else:
                 right = mid
-
         return nums[left]
