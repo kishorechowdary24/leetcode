@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/kishorechowdary24/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/kishorechowdary24/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kishorechowdary24/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/kishorechowdary24/leetcode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/kishorechowdary24/leetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/kishorechowdary24/leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/kishorechowdary24/leetcode/tree/master/0048-rotate-image) |
@@ -561,6 +562,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/kishorechowdary24/leetcode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/kishorechowdary24/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/kishorechowdary24/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/kishorechowdary24/leetcode/tree/master/0713-subarray-product-less-than-k) |
