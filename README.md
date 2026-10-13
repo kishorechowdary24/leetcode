@@ -22,6 +22,7 @@
 | [0136-single-number](https://github.com/kishorechowdary24/leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kishorechowdary24/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kishorechowdary24/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/kishorechowdary24/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/kishorechowdary24/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kishorechowdary24/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/kishorechowdary24/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -570,6 +571,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/kishorechowdary24/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kishorechowdary24/leetcode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kishorechowdary24/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/kishorechowdary24/leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/kishorechowdary24/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/kishorechowdary24/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/kishorechowdary24/leetcode/tree/master/0713-subarray-product-less-than-k) |
