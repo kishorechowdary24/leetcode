@@ -1,15 +1,14 @@
 class Solution(object):
     def sumCounts(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
         ans = 0
+        n = len(nums)
 
-        for i in range(len(nums)):
-            for j in range(i, len(nums)):
-                distinct = len(set(nums[i:j + 1]))
+        for i in range(n):
+            distinct = set()
 
-                ans += distinct * distinct
+            for j in range(i, n):
+                distinct.add(nums[j])
+                count = len(distinct)
+                ans += count * count
 
         return ans
