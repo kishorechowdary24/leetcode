@@ -84,6 +84,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/kishorechowdary24/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kishorechowdary24/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/kishorechowdary24/leetcode/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kishorechowdary24/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kishorechowdary24/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kishorechowdary24/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/kishorechowdary24/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -179,6 +180,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kishorechowdary24/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kishorechowdary24/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/kishorechowdary24/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kishorechowdary24/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3869-count-fancy-numbers-in-a-range](https://github.com/kishorechowdary24/leetcode/tree/master/3869-count-fancy-numbers-in-a-range) |
 | [3870-count-commas-in-range](https://github.com/kishorechowdary24/leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/kishorechowdary24/leetcode/tree/master/3871-count-commas-in-range-ii) |
