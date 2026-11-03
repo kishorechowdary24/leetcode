@@ -26,6 +26,7 @@
 | [0162-find-peak-element](https://github.com/kishorechowdary24/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/kishorechowdary24/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kishorechowdary24/leetcode/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/kishorechowdary24/leetcode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/kishorechowdary24/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/kishorechowdary24/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/kishorechowdary24/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -223,6 +224,7 @@
 | [0070-climbing-stairs](https://github.com/kishorechowdary24/leetcode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/kishorechowdary24/leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/kishorechowdary24/leetcode/tree/master/0118-pascals-triangle) |
+| [0198-house-robber](https://github.com/kishorechowdary24/leetcode/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/kishorechowdary24/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/kishorechowdary24/leetcode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/kishorechowdary24/leetcode/tree/master/0516-longest-palindromic-subsequence) |
